@@ -1,0 +1,6 @@
+﻿/Identity Server/bin/Debug/net5.0
+/Identity Server/obj
+/.vs/Identity Server/DesignTimeBuild
+/.vs/Identity Server/v17
+/.vs/Identity Server
+/Identity Server/tempkey.jwk
